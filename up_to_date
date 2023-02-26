@@ -1,0 +1,86 @@
+
+    1  git branch -a
+    2  ls
+    3  cd alx-pre_course/
+    4  git branch -a
+    5  ls
+    6  cd 0x01-git/
+    7  ls
+    8  ls bash/
+    9  touch 98
+   10  ls
+   11  rm 98
+   12  touch bash/98
+   13  cd ../..
+   14  cd alx-pre_course/
+   15  git status
+   16* 
+   17  git push origin update_script
+   18  git branch 
+   19  git checkout master 
+   20  git push
+   21  git push origin update_script
+   22  git checkout master 
+   23  ls
+   24  cd 0x01-git/
+   25  ls
+   26  cd bash/
+   27  ls
+   28  ll
+   29  git push origin update_script
+   30  git checkout master 
+   31  rm 98 
+   32  ls
+   33  touch 
+   34  touch 98
+   35  git add 
+   36  git add  .
+   37  git push origin update_script
+   38  git checkout master 0
+   39  git checkout master 
+   40  git branch
+   41  ls
+   42  vim alx 
+   43  cd ..
+   44  ls
+   45  rm -r js
+   46  ls
+   47  git status
+   48  git add .
+   49  git status 
+   50  cd ..
+   51  ls 
+   52  cd 0x01-git/
+   53  ls 
+   54  cd bash/
+   55  ls 
+   56  rm 98
+   57  ls
+   58  touch 98
+   59  git add .
+   60  cd ../..
+   61  git status 
+   62  git commit -m "ALX School is so cool!"
+   63  git push origin
+   64  ls 
+   65  cat README.md 
+   66  git fetch origine
+   67  git fetch origin
+   68  cat README.md 
+   69  git pull origin
+   70  ls
+   71  more README.md 
+   72  touch up_to_date
+   73  vi up_to_date 
+   74  history
+   75  vi ?
+   76  rm ?
+   77  ls
+   78  vi up_to_date 
+   79  more up_to_date 
+   80  vi up_to_date 
+   81  rm up_to_date 
+   82  history --help
+   83  history git
+   84  history
+
